@@ -9,7 +9,6 @@
 groupName: acme.selectel.ru
 
 certManager:
-  namespace: cert-manager
   serviceAccountName: cert-manager
 
 replicaCount: 1
